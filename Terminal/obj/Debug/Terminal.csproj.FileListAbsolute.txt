@@ -1,0 +1,9 @@
+C:\Users\Sergey\Documents\Visual Studio 2013\с#\Terminal\Terminal\bin\Debug\Terminal.exe.config
+C:\Users\Sergey\Documents\Visual Studio 2013\с#\Terminal\Terminal\bin\Debug\Terminal.exe
+C:\Users\Sergey\Documents\Visual Studio 2013\с#\Terminal\Terminal\bin\Debug\Terminal.pdb
+C:\Users\Sergey\Documents\Visual Studio 2013\с#\Terminal\Terminal\obj\Debug\Terminal.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\Documents\Visual Studio 2013\с#\Terminal\Terminal\obj\Debug\Terminal.FormCom.resources
+C:\Users\Sergey\Documents\Visual Studio 2013\с#\Terminal\Terminal\obj\Debug\Terminal.Properties.Resources.resources
+C:\Users\Sergey\Documents\Visual Studio 2013\с#\Terminal\Terminal\obj\Debug\Terminal.csproj.GenerateResource.Cache
+C:\Users\Sergey\Documents\Visual Studio 2013\с#\Terminal\Terminal\obj\Debug\Terminal.exe
+C:\Users\Sergey\Documents\Visual Studio 2013\с#\Terminal\Terminal\obj\Debug\Terminal.pdb
